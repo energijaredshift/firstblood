@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2EF01E35-D4DA-46D7-A1C4-4BA9EA9B5DF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61423E3E-A5C7-4F4A-A36F-29B699ACEAFE}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FirstBlood", "src\FirstBlood\FirstBlood.xproj", "{5221A16B-321D-4990-B5E7-59EE23604835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5221A16B-321D-4990-B5E7-59EE23604835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5221A16B-321D-4990-B5E7-59EE23604835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5221A16B-321D-4990-B5E7-59EE23604835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5221A16B-321D-4990-B5E7-59EE23604835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5221A16B-321D-4990-B5E7-59EE23604835} = {2EF01E35-D4DA-46D7-A1C4-4BA9EA9B5DF7}
+	EndGlobalSection
+EndGlobal
