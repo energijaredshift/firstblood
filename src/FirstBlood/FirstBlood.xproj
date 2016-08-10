@@ -13,6 +13,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/65d59490-da2c-4731-ada1-6bca1d73ff14/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/FirstBlood</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
